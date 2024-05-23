@@ -14,5 +14,13 @@
         "src":         "https://github.com/DuckOfDisorder/BlobCats/raw/main/PNGsFlipped/PNGsFilpped.zip",
         "src_sha256":  "9c205e069219fc8888c2b05432a210e73b58341dab05ea551e3b44e2f425ab83",
         "license":     "Apache 2.0"
+    },
+    "blobcats_animated_apng": {
+        "description": "A rich repositery of Flipped BlobCat emojis, derived from Google's blob emojis",
+        "files":       "BlobCatsAnimatedAPNG.json",
+        "homepage":    "https://github.com/irth/BlobCats/",
+        "src":         "https://github.com/irth/BlobCats/raw/main/GIFs%20and%20APNGs/APNGs.zip",
+        "src_sha256":  "03c3bfa4137e29b4a3b3b2862f9c953f2f1ea72fbcefc020a0d5d31f869b3099",
+        "license":     "Apache 2.0"
     }
 }
